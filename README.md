@@ -1,4 +1,4 @@
-Título do projeto
+Título do projeto:
 Execício Sobre FlexBox da Digital House, no curso de Desenvolvedor Full Stack
 
 🛠️ Construído com
